@@ -1,0 +1,15 @@
+C:\Users\пк\Source\Repos\practicheskaya2\bin\Debug\net6.0\practicheskaya2.exe
+C:\Users\пк\Source\Repos\practicheskaya2\bin\Debug\net6.0\practicheskaya2.deps.json
+C:\Users\пк\Source\Repos\practicheskaya2\bin\Debug\net6.0\practicheskaya2.runtimeconfig.json
+C:\Users\пк\Source\Repos\practicheskaya2\bin\Debug\net6.0\practicheskaya2.dll
+C:\Users\пк\Source\Repos\practicheskaya2\bin\Debug\net6.0\practicheskaya2.pdb
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.csproj.AssemblyReference.cache
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.dll
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\refint\practicheskaya2.dll
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.pdb
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\practicheskaya2.genruntimeconfig.cache
+C:\Users\пк\Source\Repos\practicheskaya2\obj\Debug\net6.0\ref\practicheskaya2.dll
